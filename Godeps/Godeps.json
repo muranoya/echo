@@ -1,0 +1,60 @@
+{
+	"ImportPath": "github.com/muranoya/echo",
+	"GoVersion": "go1.10",
+	"GodepVersion": "v80",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/lestrrat-go/server-starter/listener",
+			"Comment": "0.0.2-24-ge24b30b",
+			"Rev": "e24b30b99ae6ed143a7166ab4bd62b570af55822"
+		},
+		{
+			"ImportPath": "go.uber.org/atomic",
+			"Comment": "v1.3.2-3-g8dc6146",
+			"Rev": "8dc6146f7569370a472715e178d8ae31172ee6da"
+		},
+		{
+			"ImportPath": "go.uber.org/multierr",
+			"Comment": "v1.1.0-2-gddea229",
+			"Rev": "ddea229ff1dff9e6fe8a6c0344ac73b09e81fce5"
+		},
+		{
+			"ImportPath": "go.uber.org/zap",
+			"Comment": "v1.9.1-1-g67bc79d",
+			"Rev": "67bc79d13d155c02fd008f721863ff8cc5f30659"
+		},
+		{
+			"ImportPath": "go.uber.org/zap/buffer",
+			"Comment": "v1.9.1-1-g67bc79d",
+			"Rev": "67bc79d13d155c02fd008f721863ff8cc5f30659"
+		},
+		{
+			"ImportPath": "go.uber.org/zap/internal/bufferpool",
+			"Comment": "v1.9.1-1-g67bc79d",
+			"Rev": "67bc79d13d155c02fd008f721863ff8cc5f30659"
+		},
+		{
+			"ImportPath": "go.uber.org/zap/internal/color",
+			"Comment": "v1.9.1-1-g67bc79d",
+			"Rev": "67bc79d13d155c02fd008f721863ff8cc5f30659"
+		},
+		{
+			"ImportPath": "go.uber.org/zap/internal/exit",
+			"Comment": "v1.9.1-1-g67bc79d",
+			"Rev": "67bc79d13d155c02fd008f721863ff8cc5f30659"
+		},
+		{
+			"ImportPath": "go.uber.org/zap/zapcore",
+			"Comment": "v1.9.1-1-g67bc79d",
+			"Rev": "67bc79d13d155c02fd008f721863ff8cc5f30659"
+		},
+		{
+			"ImportPath": "gopkg.in/natefinch/lumberjack.v2",
+			"Comment": "v2.1",
+			"Rev": "a96e63847dc3c67d17befa69c303767e2f84e54f"
+		}
+	]
+}
